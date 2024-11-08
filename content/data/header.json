@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Current Projects",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
