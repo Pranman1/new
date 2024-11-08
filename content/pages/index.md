@@ -8,10 +8,31 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Welcome to the Q-bit Quantum Computing Club at Berkeley! Our mission is to
+      immerse students in the exciting world of quantum computing as we
+      transition into this revolutionary era of technology. We aim to bridge the
+      gap between academic learning and real-world applications by exposing
+      members to cutting-edge industry projects and essential tools used in the
+      field.
+
+
+      Our club provides a collaborative environment where students can engage
+      with hands-on projects, participate in workshops, and interact with
+      industry professionals. We focus on building practical skills in quantum
+      programming, algorithm development, and system design, preparing our
+      members for future careers in quantum computing and related disciplines.
+
+
+      Join us as we explore the potential of quantum technologies, foster
+      innovation, and pave the way for the next generation of leaders in this
+      rapidly evolving field. Whether you're a seasoned programmer or new to
+      quantum computing, there's a place for you in our community. Together, we
+      can unlock the mysteries of quantum mechanics and shape the future of
+      computing!
+
+
+
     actions:
       - label: Get started
         altText: ''
