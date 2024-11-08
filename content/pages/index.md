@@ -767,7 +767,7 @@ sections:
 seo:
   metaTitle: Home - QBIT
   metaDescription: ''
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/LOGO.png
   type: Seo
   addTitleSuffix: false
 type: PageLayout
