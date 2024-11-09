@@ -36,7 +36,7 @@ sections:
     actions:
       - label: Learn More
         altText: ''
-        url: /
+        url: /home
         showIcon: false
         icon: arrowRight
         iconPosition: right
