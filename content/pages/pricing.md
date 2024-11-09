@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Learn more about who we are and what we do
     plans: []
     colors: bg-light-fg-dark
     styles:
