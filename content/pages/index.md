@@ -34,7 +34,7 @@ sections:
 
 
     actions:
-      - label: Get started
+      - label: Learn More
         altText: ''
         url: /
         showIcon: false
