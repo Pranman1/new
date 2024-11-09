@@ -39,10 +39,6 @@ sections:
       type: ImageBlock
       url: /images/abstract-feature2.svg
       altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
