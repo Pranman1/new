@@ -1,7 +1,7 @@
 {
     "type": "Person",
     "name": "This could be you",
-    "role": "Job title",
+    "role": "VP of finance ",
     "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n\n",
     "image": {
         "type": "ImageBlock",
