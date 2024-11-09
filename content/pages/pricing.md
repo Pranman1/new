@@ -23,7 +23,7 @@ sections:
       type: TitleBlock
       text: Our mission
       color: text-dark
-    subtitle: Be in good company
+    subtitle: What Q-Bit's all about
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
