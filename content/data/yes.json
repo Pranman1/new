@@ -1,10 +1,12 @@
 {
     "type": "Person",
     "name": "This could be you",
-    "role": "Director of logistics",
+    "role": "VP of finance ",
+    "bio": "We're currently searching for someone to fill in this roll, if you think you're this person send an email to <pranavbha@berkeley.edu>\n\n",
     "image": {
-        "url": "/images/avatar6.svg",
-        "altText": "Harrison Tally",
+        "type": "ImageBlock",
+        "url": "/images/avatar1.svg",
+        "altText": "First Last",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -12,11 +14,9 @@
                     "mb-8"
                 ]
             }
-        },
-        "type": "ImageBlock"
+        }
     },
     "colors": "bg-light-fg-dark",
-    "elementId": null,
     "styles": {
         "self": {
             "padding": [
@@ -32,6 +32,5 @@
             "borderRadius": "none",
             "justifyContent": "center"
         }
-    },
-    "bio": "We're currently searching for someone to fill in this roll, if you think you're this person send an email to pranavbha\\@berkeley.edu\n\n"
+    }
 }
